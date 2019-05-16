@@ -1,0 +1,29 @@
+body{
+    background: #f1f1f196;
+    font-size: 18px;
+}
+
+.jumbotron{
+text-align: center;
+font-size: 80 px;
+color:rgb(48, 88, 150);
+}
+
+
+h1{
+
+    font-size:80 px;
+    color: rgb(48, 88, 150);
+}
+
+h2{
+    font-size: 35px;
+    color: rgb(48, 88, 150);
+}
+
+h3{
+
+    font-size: 50 px;
+    color: rgb(48, 88, 150);
+
+}
